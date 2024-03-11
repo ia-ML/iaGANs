@@ -1,5 +1,5 @@
 # iaGANs
-**GANs tutorials:**
+**Generative Adversarial Networks (GANs) tutorials:**
 
 1. [GAN ]()
 2. [DCGAN]() 
